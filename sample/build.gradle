@@ -22,12 +22,12 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-    productFlavors {
+    /*productFlavors {
         qihoo {
         }
         xiaomi {
         }
-    }
+    }*/
 
 }
 
