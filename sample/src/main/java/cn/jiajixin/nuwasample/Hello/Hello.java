@@ -5,6 +5,6 @@ package cn.jiajixin.nuwasample.Hello;
  */
 public class Hello {
     public String say() {
-        return "patch success";
+        return "hello world";
     }
 }
